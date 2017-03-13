@@ -1,5 +1,6 @@
 # DC-Motor-Control Library
-![DC Motor Control PCB](https://github.com/Infineon/Assets/blob/master/Pictures/DC-Motor-Control.jpg | width=300)
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/DC-Motor-Control.jpg" width="400"> 
+
 Library of Infineon's [DC motor control shield](https://www.infineon.com/cms/en/product/productType.html?productType=5546d4624ad04ef9014b07c0c07922e0) for Arduino. 
 
 ## Summary
