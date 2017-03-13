@@ -20,3 +20,12 @@ The DC motor control shield is a high current motor control board being compatib
 
 ## Usage
 Please follow the examples in the /examples directory in the library to learn more about the usage of the library.
+
+# PCB Design Data
+In case you want to change the design or reuse it for your own projects, please find the XMC 2Go board design for EAGLE under the following link:
+
+[DC Motor Control Shield Design Data](https://www.infineon.com/dgdl/Infineon-DC_Motor_Control_Shield-PCB-v01_00-EN.zip?fileId=5546d4624cb7f111014cc23eebe1325f&sd=t)
+
+# Board Information, Datasheet and Additional Information
+A PDF summarizing the features and layout of the DC motor control shield is stored on the Infineon homepage [here](https://www.infineon.com/dgdl/Infineon-Motor_Control_Shield_with_BTN8982TA_for_Arduino-UM-v01_00-EN.pdf?fileId=5546d4624ca27d02014cb20b89867eed).
+The datasheet for the BTN8982TA can be found here [BTN8982TA Datasheet](https://www.infineon.com/dgdl/Infineon-BTN8982TA-DS-v01_00-EN.pdf?fileId=db3a30433fa9412f013fbe32289b7c17) while the respective application note is located here [NovalithIC™ half-bridge family BTN89xy](https://www.infineon.com/dgdl/Infineon-NovalithIC_BTN89x0-x2-AN-v00_05-EN.pdf?fileId=db3a30433fa9412f013fc8d88e3d430a).
