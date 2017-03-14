@@ -19,7 +19,7 @@ The DC motor control shield is a high current motor control board being compatib
 * Overtemperature shut down with latch behavior and undervoltage shut down
 
 ## Installation
-First of all, please download this repository from GitHub by clicking on the following field in the [releases](https://github.com/Infineon/DC-Motor-Control/releases) of this repository:
+First of all, please download this repository from GitHub by clicking on the following field in the [releases](https://github.com/Infineon/DC-Motor-Control/releases) of this repository or directly [here](https://github.com/Infineon/DC-Motor-Control/releases/download/V1.0.0/IFX-DC-Motor-Control.zip):
 
 ![Download Library](https://raw.githubusercontent.com/infineon/assets/master/Pictures/DL_DC_Mot_Rel.png)
 
