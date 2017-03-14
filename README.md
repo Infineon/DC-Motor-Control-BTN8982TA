@@ -21,7 +21,7 @@ The DC motor control shield is a high current motor control board being compatib
 ## Installation
 First of all, please download this repository from GitHub by clicking on the following field in the [releases](https://github.com/Infineon/DC-Motor-Control/releases) of this repository:
 
-![Download Library](https://raw.githubusercontent.com/infineon/assets/master/Pictures/DL_DC_Mot_Rel.png)
+![Download Library](https://raw.githubusercontent.com/infineon/assets/master/Pictures/DL_DC_ot_Rel.png)
 
 To install the DC motor control library in the Arduino IDE, please go now to **Sketch** > **Include Library** > **Add .ZIP Library...** in the Arduino IDE and navigate to the downloaded .ZIP file of this repository. The library will be installed in your Arduino sketch folder in libraries and you can select as well as include this one to your project under **Sketch** > **Include Library** > **IfxMotorControlShield**. 
 
