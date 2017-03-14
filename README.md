@@ -19,9 +19,16 @@ The DC motor control shield is a high current motor control board being compatib
 * Overtemperature shut down with latch behavior and undervoltage shut down
 
 ## Installation
+First of all, please download this repository from GitHub by clicking on the following field in this repository:
+
+![Download Library](https://raw.githubusercontent.com/infineon/assets/master/Pictures/Download_Repo.png)
+
+To install the DC motor control library in the Arduino IDE, please go now to **Sketch** > **Include Library** > **Add .ZIP Library...** in the Arduino IDE and navigate to the downloaded .ZIP file of this repository. The library will be installed in your Arduino sketch folder in libraries and you can select as well as include this one to your project under **Sketch** > **Include Library** > **IfxMotorControlShield**. 
+
+![Install Library](https://raw.githubusercontent.com/infineon/assets/master/Pictures/Library_Install_ZIP.png)
 
 ## Usage
-Please follow the examples in the /examples directory in the library to learn more about the usage of the library.
+Please follow the example sketches in the /examples directory in this library to learn more about the usage of the library.
 
 ## PCB Design Data
 In case you want to change the design or reuse it for your own projects, please find the XMC 2Go board design for EAGLE under the following link:
