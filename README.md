@@ -1,4 +1,7 @@
 # DC-Motor-Control-BTN8982TA Library
+
+[![Build Status](https://travis-ci.org/Infineon/DC-Motor-Control-BTN8982TA.svg?branch=master)](https://travis-ci.org/Infineon/DC-Motor-Control-BTN8982TA)
+
 <img src="https://github.com/Infineon/Assets/blob/master/Pictures/DC-Motor-Control.jpg" width="400"> 
 
 Library of Infineon's [DC motor control shield](https://www.infineon.com/cms/en/product/productType.html?productType=5546d4624ad04ef9014b07c0c07922e0) for Arduino. 
