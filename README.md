@@ -34,7 +34,7 @@ To install the DC motor control library in the Arduino IDE, please go now to **S
 Please follow the example sketches in the /examples directory in this library to learn more about the usage of the library.
 
 ## PCB Design Data
-In case you want to change the design or reuse it for your own projects, please find the XMC 2Go board design for EAGLE under the following link:
+In case you want to change the design or reuse it for your own projects, please find the board design for EAGLE under the following link:
 
 [DC Motor Control Shield Design Data](https://www.infineon.com/dgdl/Infineon-DC_Motor_Control_Shield-PCB-v01_00-EN.zip?fileId=5546d4624cb7f111014cc23eebe1325f&sd=t)
 
